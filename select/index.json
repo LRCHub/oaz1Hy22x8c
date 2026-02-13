@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "林檎売りの泡沫少女（feat. 日向めぐみ）",
+  "base_artist": "yukkedoluce",
+  "createdAt": "2026-02-13T14:40:30.975405Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "林檎売りの泡沫少女",
+      "artist": "yukkedoluce Feat. GUMI",
+      "has_synced": false,
+      "path": "select/pl_01_林檎売りの泡沫少女_yukkedoluce_Feat._GUMI.txt"
+    }
+  ]
+}
